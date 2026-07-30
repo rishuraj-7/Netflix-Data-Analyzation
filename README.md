@@ -61,24 +61,6 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix Movies and 
 
 ---
 
-## 📷 Sample Visualizations
-
-### Movies vs TV Shows
-
-![Movies vs TV Shows](images/graph1.png)
-
----
-
-### Top Genres
-
-![Top Genres](images/graph2.png)
-
----
-
-### Netflix Growth
-
-![Growth](images/graph3.png)
-
 ---
 
 ## 🚀 Future Improvements
@@ -122,4 +104,4 @@ B.Tech IT Student
 
 Aspiring Data Analyst
 
-GitHub: https://github.com/YOUR_GITHUB
+GitHub: https://github.com/rishuraj-7
