@@ -77,7 +77,7 @@ This project performs Exploratory Data Analysis (EDA) on the Netflix Movies and 
 Clone this repository
 
 ```bash
-git clone https://github.com/YourUsername/Netflix-Data-Analysis.git
+git clone https://github.com/rishuraj-7/Netflix-Data-Analysis.git
 ```
 
 Install dependencies
