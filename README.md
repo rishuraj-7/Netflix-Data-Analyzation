@@ -100,7 +100,7 @@ Run all cells.
 
 **RISHU Raj**
 
-B.Tech IT Student
+B.Tech IT 
 
 Aspiring Data Analyst
 
